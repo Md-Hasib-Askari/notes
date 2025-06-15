@@ -10,9 +10,9 @@
 
 ### 📌 Formula:
 
-$$
-x' = \frac{x - x_{\text{min}}}{x_{\text{max}} - x_{\text{min}}}
-$$
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/98b23f6f-b829-41e0-8280-63853b78cd2f" alt="" />
+</div>
 
 Where:
 
