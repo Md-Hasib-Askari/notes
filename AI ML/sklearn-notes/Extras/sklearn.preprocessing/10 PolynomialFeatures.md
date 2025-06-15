@@ -13,15 +13,15 @@ Given input features $x_1, x_2$, it can generate:
 
 #### Degree = 2:
 
-$$
-[1,\ x_1,\ x_2,\ x_1^2,\ x_1 x_2,\ x_2^2]
-$$
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/3c8898df-2783-423e-bfe1-f26e9f82a3c0" alt="" />
+</div>
 
 #### Degree = 3:
 
-$$
-[1,\ x_1,\ x_2,\ x_1^2,\ x_1 x_2,\ x_2^2,\ x_1^3,\ x_1^2 x_2,\ x_1 x_2^2,\ x_2^3]
-$$
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/fb7b5e46-6724-43ce-bef7-1bd202b6b607" alt="" />
+</div>
 
 ---
 
@@ -51,8 +51,8 @@ print(X_poly)
 
 Which corresponds to:
 
-* $1, x₁, x₂, x₁², x₁·x₂, x₂²$
-* $1, 2, 3, 4, 6, 9$
+* ```1, x₁, x₂, x₁², x₁·x₂, x₂²```
+* ```1, 2, 3, 4, 6, 9```
 
 ---
 
