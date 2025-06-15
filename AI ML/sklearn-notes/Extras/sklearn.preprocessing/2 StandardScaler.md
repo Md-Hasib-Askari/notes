@@ -22,8 +22,8 @@ For each feature $x$:
 
 Where:
 
-* μ = mean of feature
-* σ = standard deviation of feature
+* *μ* = mean of feature
+* *σ* = standard deviation of feature
 
 ---
 
