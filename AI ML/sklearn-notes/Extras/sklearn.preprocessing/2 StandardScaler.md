@@ -16,14 +16,14 @@ This is **crucial** for ML models that are sensitive to the scale of data (e.g.,
 
 For each feature $x$:
 
-$$
-z = \frac{x - \mu}{\sigma}
-$$
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/456b8b63-d6eb-43e1-81bf-a7378f7262f1" alt="" />
+</div>
 
 Where:
 
-* $\mu$ = mean of feature
-* $\sigma$ = standard deviation of feature
+* μ = mean of feature
+* σ = standard deviation of feature
 
 ---
 
