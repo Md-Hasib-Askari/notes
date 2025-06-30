@@ -104,7 +104,6 @@
 - Content creation and publishing system
 - Integration with business tools (Slack, Notion, etc.)
 
-generate note on the following topic in Practical Projects, keep it within 220 lines:
 **Advanced Projects**
 - Custom domain-specific agent (finance, healthcare, etc.)
 - Multi-agent coordination system
