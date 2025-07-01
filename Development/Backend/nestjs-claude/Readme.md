@@ -120,17 +120,17 @@ Before starting with NestJS, ensure you have solid knowledge of:
 
 ## Practical Project Progression
 
-**Beginner Project**: Simple blog API with CRUD operations
-**Intermediate Project**: E-commerce backend with authentication, file uploads, and payment integration
-**Advanced Project**: Microservices-based application with event sourcing and CQRS
-**Expert Project**: High-scalability platform with advanced architecture patterns
+- **Beginner Project**: Simple blog API with CRUD operations
+- **Intermediate Project**: E-commerce backend with authentication, file uploads, and payment integration
+- **Advanced Project**: Microservices-based application with event sourcing and CQRS
+- **Expert Project**: High-scalability platform with advanced architecture patterns
 
 ## Recommended Learning Resources
 
-**Official Documentation**: Always start with NestJS official docs
-**Practice Platforms**: Build real-world applications rather than just tutorials
-**Community**: Join NestJS Discord/Reddit communities
-**Code Review**: Participate in open-source NestJS projects
+- **Official Documentation**: Always start with NestJS official docs
+- **Practice Platforms**: Build real-world applications rather than just tutorials
+- **Community**: Join NestJS Discord/Reddit communities
+- **Code Review**: Participate in open-source NestJS projects
 
 ## Timeline Expectations
 
