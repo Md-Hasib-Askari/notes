@@ -350,7 +350,7 @@ ensemble_retriever = EnsembleRetriever(
 
 #### Simple RAG Pipeline
 ```python
-from langchain.chains import RetrievalQA
+from langchain.chains.retrieval_qa.base import RetrievalQA
 from langchain.llms import OpenAI
 
 # Create RAG chain
@@ -362,7 +362,7 @@ qa_chain = RetrievalQA.from_chain_type(
 )
 
 # Query the system
-result = qa_chain({"query": "What is the main topic?"})
+result = qa_chain.invoke({"query": "What is the main topic?"})
 ```
 
 #### Chain Types
