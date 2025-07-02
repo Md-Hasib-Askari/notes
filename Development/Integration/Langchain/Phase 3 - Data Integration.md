@@ -443,7 +443,7 @@ compression_retriever = ContextualCompressionRetriever(
 - Good for factual queries
 
 ```python
-from langchain.chains import RetrievalQA
+from langchain.chains.retrieval_qa.base import RetrievalQA
 
 qa_chain = RetrievalQA.from_chain_type(
     llm=llm,
