@@ -460,7 +460,7 @@ qa_chain = RetrievalQA.from_chain_type(
 - Good for interactive applications
 
 ```python
-from langchain.chains import ConversationalRetrievalChain
+from langchain.chains.conversational_retrieval.base import ConversationalRetrievalChain
 from langchain.memory import ConversationBufferMemory
 
 memory = ConversationBufferMemory(
