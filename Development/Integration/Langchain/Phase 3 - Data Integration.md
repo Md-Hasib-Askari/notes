@@ -350,7 +350,7 @@ ensemble_retriever = EnsembleRetriever(
 
 #### Simple RAG Pipeline
 ```python
-from langchain.chains import RetrievalQA
+from langchain.chains.retrieval_qa.base import RetrievalQA
 from langchain.llms import OpenAI
 
 # Create RAG chain
@@ -362,7 +362,7 @@ qa_chain = RetrievalQA.from_chain_type(
 )
 
 # Query the system
-result = qa_chain({"query": "What is the main topic?"})
+result = qa_chain.invoke({"query": "What is the main topic?"})
 ```
 
 #### Chain Types
@@ -443,7 +443,7 @@ compression_retriever = ContextualCompressionRetriever(
 - Good for factual queries
 
 ```python
-from langchain.chains import RetrievalQA
+from langchain.chains.retrieval_qa.base import RetrievalQA
 
 qa_chain = RetrievalQA.from_chain_type(
     llm=llm,
@@ -460,7 +460,7 @@ qa_chain = RetrievalQA.from_chain_type(
 - Good for interactive applications
 
 ```python
-from langchain.chains import ConversationalRetrievalChain
+from langchain.chains.conversational_retrieval.base import ConversationalRetrievalChain
 from langchain.memory import ConversationBufferMemory
 
 memory = ConversationBufferMemory(
