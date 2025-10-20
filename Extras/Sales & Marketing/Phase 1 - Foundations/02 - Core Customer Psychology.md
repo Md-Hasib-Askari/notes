@@ -11,9 +11,9 @@
 ## 2. Frameworks & Examples
 
 - JTBD interview template: Situation → Struggle → Existing workaround → Aha moment → Desired outcome → Purchase/Adoption trigger.
-- 4 Forces of Progress (Christensen): Push of situation, Pull of new solution, Anxiety of adoption, Habit of present. Craft messaging to increase Pull/Push and reduce Anxiety/Habit.
+- Four Forces of Progress (Christensen): Push of situation, Pull of new solution, Anxiety of adoption, Habit of present. Craft messaging to increase Pull/Push and reduce Anxiety/Habit.
 - Value Equation: (Dream outcome × Perceived likelihood of achievement) / (Time delay × Effort & Sacrifice). Make results feel likely; reduce time/effort.
-- Example: Dev tool adoption
+- Example: Developer tool adoption
   - Champion cares about speed/productivity (emotional: pride, competence).
   - Security cares about risk/compliance (risk minimization dominates).
   - Economic buyer cares about ROI, total cost, alternatives (anchoring vs status-quo bias).
@@ -21,7 +21,7 @@
 ## 3. Actionable Techniques & Tools
 
 - Run 6–10 JTBD interviews; synthesize top 5 outcomes; extract language for copy.
-- Objection log per persona; preempt with FAQ, one-pagers, security docs.
+- Objection log per persona; preempt with Frequently Asked Questions (FAQ), one-pagers, security documents.
 - Social proof ladder: reviews → case studies → quantified ROI → peer references.
 - Reduce friction: quick-starts, templates, risk reversals (free trial, pilot, guarantee).
 - Tools: Typeform/Google Forms (surveys), Dovetail/Affinity (research), Notion (objection wiki), Gong (voice of customer), Hotjar (friction mapping).
