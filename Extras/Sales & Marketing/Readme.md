@@ -46,6 +46,14 @@
 
 ---
 
+#### Index: Phase 3 Topics
+
+1. [Consultative & Solution Selling](./Phase%203%20-%20Sales%20Systems/01%20-%20Consultative%20&%20Solution%20Selling.md)
+2. [Cold Emailing, Outreach, and CRM Tools](./Phase%203%20-%20Sales%20Systems/02%20-%20Cold%20Emailing,%20Outreach,%20and%20CRM%20tools.md)
+3. [Sales Calls & Objection Handling](./Phase%203%20-%20Sales%20Systems/03%20-%20Sales%20Calls%20&%20Objection%20Handling.md)
+4. [Lead Qualification (BANT, MEDDIC)](./Phase%203%20-%20Sales%20Systems/04%20-%20Lead%20Qualification%20(BANT,%20MEDDIC).md)
+5. [Follow-ups & Closing Techniques](./Phase%203%20-%20Sales%20Systems/05%20-%20Follow-ups%20&%20Closing%20Techniques.md)
+
 ### 📊 Phase 4: Digital & Growth Marketing (Weeks 17–22)
 
 **Goal:** Learn performance-driven marketing with data.
@@ -59,6 +67,14 @@
 
 ---
 
+#### Index: Phase 4 Topics
+
+1. [Paid Ads (Google, Meta, LinkedIn)](./Phase%204%20-%20Digital%20&%20Growth%20Marketing/01%20-%20Paid%20Ads%20(Google,%20Meta,%20LinkedIn).md)
+2. [Landing Pages & Conversion Rate Optimization](./Phase%204%20-%20Digital%20&%20Growth%20Marketing/02%20-%20Landing%20Pages%20&%20Conversion%20Rate%20Optimization.md)
+3. [Analytics (Google Analytics, UTM, Funnel Tracking)](./Phase%204%20-%20Digital%20&%20Growth%20Marketing/03%20-%20Analytics%20(Google%20Analytics,%20UTM,%20Funnel%20Tracking).md)
+4. [A/B Testing](./Phase%204%20-%20Digital%20&%20Growth%20Marketing/04%20-%20A-B%20Testing.md)
+5. [Growth Loops and Viral Mechanics](./Phase%204%20-%20Digital%20&%20Growth%20Marketing/05%20-%20Growth%20Loops%20and%20Viral%20Mechanics.md)
+
 ### 🚀 Phase 5: Personal Brand & Entrepreneurial Sales (Weeks 23–26)
 
 **Goal:** Apply everything to your own product or personal brand.
@@ -71,6 +87,14 @@
 * Final Capstone: Build & Sell Your Own Offer
 
 ---
+
+#### Index: Phase 5 Topics
+
+1. [Building a Marketing Engine for Your Projects](./Phase%205%20-%20Personal%20Brand%20&%20Entrepreneurial%20Sales/01%20-%20Building%20a%20Marketing%20Engine%20for%20Your%20Projects.md)
+2. [Social Selling (LinkedIn, Twitter/X)](./Phase%205%20-%20Personal%20Brand%20&%20Entrepreneurial%20Sales/02%20-%20Social%20Selling%20(LinkedIn,%20Twitter%20X).md)
+3. [AI Tools for Sales & Marketing Automation](./Phase%205%20-%20Personal%20Brand%20&%20Entrepreneurial%20Sales/03%20-%20AI%20Tools%20for%20Sales%20&%20Marketing%20Automation.md)
+4. [Freelancing / SaaS Selling Strategy](./Phase%205%20-%20Personal%20Brand%20&%20Entrepreneurial%20Sales/04%20-%20Freelancing%20-%20SaaS%20Selling%20Strategy.md)
+5. [Final Capstone: Build & Sell Your Own Offer](./Phase%205%20-%20Personal%20Brand%20&%20Entrepreneurial%20Sales/05%20-%20Final%20Capstone%20-%20Build%20&%20Sell%20Your%20Own%20Offer.md)
 
 ### 📘 Structure for Each Topic You Provide
 
