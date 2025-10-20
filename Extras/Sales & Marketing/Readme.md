@@ -25,6 +25,14 @@
 
 ---
 
+#### Index: Phase 2 Topics
+
+1. [Marketing Funnels (AIDA, Pirate Metrics)](./Phase%202%20-%20Marketing%20Strategy/01%20-%20Marketing%20Funnels%20(AIDA,%20Pirate%20Metrics).md)
+2. [Copywriting for Engineers](./Phase%202%20-%20Marketing%20Strategy/02%20-%20Copywriting%20for%20Engineers.md)
+3. [Content Marketing (blogs, video, email, SEO)](./Phase%202%20-%20Marketing%20Strategy/03%20-%20Content%20Marketing%20(blogs,%20video,%20email,%20SEO).md)
+4. [Storytelling in Tech Marketing](./Phase%202%20-%20Marketing%20Strategy/04%20-%20Storytelling%20in%20Tech%20Marketing.md)
+5. [Product-Led Growth Basics](./Phase%202%20-%20Marketing%20Strategy/05%20-%20Product-Led%20Growth%20Basics.md)
+
 ### 💰 Phase 3: Sales Systems (Weeks 11–16)
 
 **Goal:** Learn structured selling for both B2B & B2C contexts.
