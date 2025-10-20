@@ -12,6 +12,15 @@
 
 ---
 
+#### Index: Phase 1 Topics
+
+1. [Difference between Sales, Marketing & Growth](./Phase%201%20-%20Foundations/01%20-%20Difference%20between%20Sales,%20Marketing%20&%20Growth.md)
+2. [Core Customer Psychology](./Phase%201%20-%20Foundations/02%20-%20Core%20Customer%20Psychology.md)
+3. [Building a Personal/Brand Value Proposition](./Phase%201%20-%20Foundations/03%20-%20Building%20a%20Personal%20or%20Brand%20Value%20Proposition.md)
+4. [Market Research & Customer Segmentation](./Phase%201%20-%20Foundations/04%20-%20Market%20Research%20&%20Customer%20Segmentation.md)
+5. [Positioning and Unique Selling Proposition (USP)](./Phase%201%20-%20Foundations/05%20-%20Positioning%20and%20Unique%20Selling%20Proposition%20(USP).md)
+6. [Glossary (Phase 1)](./Phase%201%20-%20Foundations/Glossary.md)
+
 ### 💡 Phase 2: Marketing Strategy (Weeks 5–10)
 
 **Goal:** Learn how to attract, educate, and convert users.
@@ -107,12 +116,3 @@ When you give me a topic, I’ll respond with:
 5. **Hands-on Exercises (Guided + Challenge)**
 
 ---
-
-#### Index: Phase 1 Topics
-
-1. [Difference between Sales, Marketing & Growth](./Phase%201%20-%20Foundations/01%20-%20Difference%20between%20Sales,%20Marketing%20&%20Growth.md)
-2. [Core Customer Psychology](./Phase%201%20-%20Foundations/02%20-%20Core%20Customer%20Psychology.md)
-3. [Building a Personal/Brand Value Proposition](./Phase%201%20-%20Foundations/03%20-%20Building%20a%20Personal%20or%20Brand%20Value%20Proposition.md)
-4. [Market Research & Customer Segmentation](./Phase%201%20-%20Foundations/04%20-%20Market%20Research%20&%20Customer%20Segmentation.md)
-5. [Positioning and Unique Selling Proposition (USP)](./Phase%201%20-%20Foundations/05%20-%20Positioning%20and%20Unique%20Selling%20Proposition%20(USP).md)
-6. [Glossary (Phase 1)](./Phase%201%20-%20Foundations/Glossary.md)
