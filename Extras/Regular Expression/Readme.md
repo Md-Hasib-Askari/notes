@@ -215,13 +215,13 @@ Each includes:
 
 ## 🗓️ **3. Dates and Times**
 
-| #  | Regex                 | Purpose               | Example Match        |                |                       |              |
-| -- | --------------------- | --------------------- | -------------------- | -------------- | --------------------- | ------------ |
-| 21 | `^\d{2}/\d{2}/\d{4}$` | Date (dd/mm/yyyy)     | `12/11/2025`         |                |                       |              |
-| 22 | `^\d{4}-\d{2}-\d{2}$` | ISO date (yyyy-mm-dd) | `2025-11-12`         |                |                       |              |
-| 23 | `^\d{2}:\d{2}$`       | Time (hh:mm)          | `23:59`              |                |                       |              |
-| 24 | `^(0[1-9]             | 1[0-2])/(0[1-9]       | [12]\d               | 3[01])/\d{4}$` | Valid month/day range | `11/12/2025` |
-| 25 | `^(0[0-9]             | 1[0-9]                | 2[0-3]):[0-5][0-9]$` | 24-hour time   | `14:45`               |              |
+| #  | Regex                                              | Purpose               | Example Match |
+| -- | -------------------------------------------------- | --------------------- | ------------- |
+| 21 | `^\d{2}/\d{2}/\d{4}$`                              | Date (dd/mm/yyyy)     | `12/11/2025`  |
+| 22 | `^\d{4}-\d{2}-\d{2}$`                              | ISO date (yyyy-mm-dd) | `2025-11-12`  |
+| 23 | `^\d{2}:\d{2}$`                                    | Time (hh:mm)          | `23:59`       |
+| 24 | `^(0[1-9]\|1[0-2])/(0[1-9]\|[12]\d\|3[01])/\d{4}$` | Valid month/day range | `11/12/2025`  |
+| 25 | `^(0[0-9]\|1[0-9]\|2[0-3]):[0-5][0-9]$`            | 24-hour time          | `14:45`       |
 
 ---
 
@@ -241,10 +241,10 @@ Each includes:
 
 | #  | Regex                                   | Purpose                         | Example Match      |                           |                      |             |
 | -- | --------------------------------------- | ------------------------------- | ------------------ | ------------------------- | -------------------- | ----------- |
-| 31 | `^[\w,\s-]+\.[A-Za-z]{3}$`              | File name with 3-char extension | `report_2025.pdf`  |                           |                      |             |
-| 32 | `^.*.(jpg                               | jpeg                            | png                | gif)$`                    | Image file extension | `photo.png` |
-| 33 | `^[A-Za-z]:[\\S                         | *\S]?.*$`                       | Windows path       | `C:\Users\Hasib\file.txt` |                      |             |
-| 34 | `^/([A-Za-z0-9-_+]+/)*[A-Za-z0-9-_+]+$` | Linux-style path                | `/home/hasib/docs` |                           |                      |             |
+| 31 | `^[\w,\s-]+\.[A-Za-z]{3}$` | File name with 3-char extension | `report_2025.pdf` |
+| 32 | `^.*\.(jpg\|jpeg\|png\|gif)$` | Image file extension | `photo.png` |
+| 33 | `^[A-Za-z]:\\[^\r\n]*$` | Windows path | `C:\Users\Hasib\file.txt` |
+| 34 | `^/([A-Za-z0-9-_+]+/)*[A-Za-z0-9-_+]+$` | Linux-style path | `/home/hasib/docs` |
 
 ---
 
@@ -277,11 +277,11 @@ Each includes:
 
 | #  | Regex                       | Purpose                    | Example Match        |                             |      |          |              |                |
 | -- | --------------------------- | -------------------------- | -------------------- | --------------------------- | ---- | -------- | ------------ | -------------- |
-| 46 | `^[A-Za-z0-9\s,.'-]{3,}$`   | Person’s name (flexible)   | `Hasib Uddin Khan`   |                             |      |          |              |                |
-| 47 | `^[A-Za-z0-9\s,'-]{5,100}$` | Address validation         | `123 Main Street`    |                             |      |          |              |                |
-| 48 | `^(?:Yes                    | No                         | Y                    | N                           | True | False)$` | Boolean text | `Yes`, `False` |
-| 49 | `^[1-9][0-9]?$              | ^100$`                     | Percent (0–100)      | `85`                        |      |          |              |                |
-| 50 | `^(https?                   | ftp)://[^\s/$.?#].[^\s]*$` | General URL (robust) | `ftp://server.com/file.txt` |      |          |              |                |
+| 46 | `^[A-Za-z0-9\s,.'-]{3,}$` | Person’s name (flexible) | `Hasib Uddin Khan` |
+| 47 | `^[A-Za-z0-9\s,'-]{5,100}$` | Address validation | `123 Main Street` |
+| 48 | `^(?:Yes\|No\|Y\|N\|True\|False)$` | Boolean text | `Yes`, `False` |
+| 49 | `^(?:100\|[1-9]?[0-9])$` | Percent (0–100) | `85` |
+| 50 | `^(?:https?\|ftp):\/\/[^\s/$.?#].[^\s]*$` | General URL (robust) | `ftp://server.com/file.txt` |
 
 ---
 
