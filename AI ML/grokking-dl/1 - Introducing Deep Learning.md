@@ -291,11 +291,6 @@ This page is basically telling you:
 
 ---
 
-Here’s **Page 3 of “1.pdf”** explained clearly and deeply so you understand not just *what* it says, but *why it matters*.
-(Reference: extracted text) 
-
----
-
 # ⭐ **Page 3 — “Will This Be Difficult to Learn?” & Why This Book Works**
 
 This page is about **setting expectations** and easing your worry about difficulty. It also answers the most important psychological question every learner secretly has:
